@@ -29,7 +29,7 @@ const HowItWorks = () => {
     },
     y:0,
     opacity:1,
-    duration:2,
+    duration:1,
     ease:'power2.inOut',
     stagger:0.1,
   })
@@ -43,7 +43,7 @@ const HowItWorks = () => {
     },
     y:0,
     opacity:1,
-    duration:2,
+    duration:1,
     ease:'power2.inOut',
     stagger:0.2,
   })
